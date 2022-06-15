@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 Boa = "0.13"
+gc = "*"
